@@ -14,5 +14,5 @@ Pod::Spec.new do |s|
   s.ios.deployment_target = '10.0'
   s.swift_versions = '4.0'
 
-  s.source_files = 'PopupUpdate/*'
+  s.source_files = 'PopupUpdate/Classes/**/*'
 end
