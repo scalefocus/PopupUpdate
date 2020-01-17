@@ -1,0 +1,16 @@
+PODS:
+  - PopupUpdate (0.1.0)
+
+DEPENDENCIES:
+  - PopupUpdate (from `../`)
+
+EXTERNAL SOURCES:
+  PopupUpdate:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  PopupUpdate: 27a6884696001838534d72b153911ffa8bc22f75
+
+PODFILE CHECKSUM: 69c5e2e407e7c5eacbaf5cb80d4f2a2f3608f16d
+
+COCOAPODS: 1.8.4

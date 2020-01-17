@@ -1,0 +1,6 @@
+framework module PopupUpdate {
+  umbrella header "PopupUpdate-umbrella.h"
+
+  export *
+  module * { export * }
+}
