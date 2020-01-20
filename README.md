@@ -1,6 +1,5 @@
 # PopupUpdate
 
-[![CI Status](https://img.shields.io/travis/nadezhdanikolova/PopupUpdate.svg?style=flat)](https://github.com/scalefocus/PopupUpdate)
 [![Version](https://img.shields.io/cocoapods/v/PopupUpdate.svg?style=flat)](https://cocoapods.org/pods/PopupUpdate)
 [![License](https://img.shields.io/cocoapods/l/PopupUpdate.svg?style=flat)](https://cocoapods.org/pods/PopupUpdate)
 [![Platform](https://img.shields.io/cocoapods/p/PopupUpdate.svg?style=flat)](https://cocoapods.org/pods/PopupUpdate)
