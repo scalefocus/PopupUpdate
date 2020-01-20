@@ -56,6 +56,11 @@ public class PUUpdateApplicationManager: UpdateApplicationManager {
         window.rootViewController = UIViewController()
         window.backgroundColor = .clear
         window.rootViewController?.view.backgroundColor = .clear
+        if #available(iOS 13.0, *) {
+            if let currentWindowScene = UIApplication.shared.connectedScenes.first as? UIWindowScene {
+                window.windowScene = currentWindowScene
+            }
+        }
         return window
     }()
     
