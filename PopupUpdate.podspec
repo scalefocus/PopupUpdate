@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'PopupUpdate'
-  s.version          = '1.0.1'
+  s.version          = '1.0.2'
   s.summary          = 'PopupUpdate is a library which provide us an easy way to show a popup for new available version for the current application.'
   s.description      = <<-DESC
 "PopupUpdate is a library which provide us an easy way to show a popup for new available version for the current application."
