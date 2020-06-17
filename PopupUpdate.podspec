@@ -8,7 +8,7 @@ Pod::Spec.new do |s|
 
   s.homepage         = 'https://github.com/scalefocus/PopupUpdate'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Upnetix' => 'code@upnetix.com' }
+  s.author           = { 'Scalefocus' => 'ios@scalefocus.com' }
   s.source           = { :git => 'https://github.com/scalefocus/PopupUpdate.git', :tag => s.version.to_s }
 
   s.ios.deployment_target = '10.0'
